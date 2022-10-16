@@ -1,4 +1,4 @@
-
-sudo apt update
-sudo apt install snapd
-sudo snap install postman
+git clone https://github.com/drebtchinsky/mock-instritos-ntmtst.git
+cd mock-instritos-ntmtst
+npm install
+npm start
